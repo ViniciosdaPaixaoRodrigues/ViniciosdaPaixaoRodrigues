@@ -1,17 +1,63 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Vinicios</h1>
+<h3 align="center">Desenvolvedor apaixonado por Back-end e eletrônica!</h3>
 
-| :-: |
-<!--
-**ViniciosdaPaixaoRodrigues/ViniciosdaPaixaoRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente trabalhando em: **Uma mão prótese controlada por peças eletrônicas**
+- 🌱 Estudando: **, Eletrônica**
+- 💬 Me pergunte sobre: **Python, Java**
+- ⚡ Curiosidade: **Uma vez focado, não distraio fácil de um projeto!**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,python,docker,git,linux,vscode" />
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+## Onde me encontrar
+
+<div align="center">
+
+<a href="www.linkedin.com/in/vinicios-da-paixão-rodrigues-dev" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:viniciospaixaoprofissional@gmail.com">
+<img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/ViniciosdaPaixaoRodrigues" target="_blank">
+<img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Visitantes
+
+![](https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue)
+
+</div>
