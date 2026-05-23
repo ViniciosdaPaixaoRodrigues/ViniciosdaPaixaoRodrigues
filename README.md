@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,python,docker,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=vscode, python, java" />
 
 </div>
 
