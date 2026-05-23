@@ -6,7 +6,7 @@
 ## Sobre mim
 
 - 🔭 Atualmente trabalhando em: **Uma mão prótese controlada por peças eletrônicas**
-- 🌱 Estudando: **, Eletrônica**
+- 🌱 Estudando: **Python, Eletrônica**
 - 💬 Me pergunte sobre: **Python, Java**
 - ⚡ Curiosidade: **Uma vez focado, não distraio fácil de um projeto!**
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode, python, java" />
+<img src="https://skillicons.dev/icons?i=vscode,python,java" />
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<a href="www.linkedin.com/in/vinicios-da-paixão-rodrigues-dev" target="_blank">
+<a href="https://www.linkedin.com/in/vinicios-da-paixão-rodrigues-dev" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
