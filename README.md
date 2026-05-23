@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-- 🔭 Atualmente trabalhando em: **Uma mão prótese controlada por peças eletrônicas**
+- 🔭 Atualmente trabalhando em: **Mão prótese controlada por Peças Eletrônicas**
 - 🌱 Estudando: **Python, Eletrônica**
 - 💬 Me pergunte sobre: **Python, Java**
 - ⚡ Curiosidade: **Uma vez focado, não distraio fácil de um projeto!**
