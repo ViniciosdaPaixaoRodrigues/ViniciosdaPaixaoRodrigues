@@ -6,7 +6,7 @@
 ## Sobre mim
 
 - 🔭 Atualmente trabalhando em: **Mão prótese controlada por Peças Eletrônicas**
-- 🌱 Estudando: **Python, Eletrônica**
+- 🌱 Estudando: Sistemas Embarcados (**MicroPython**), Arquitetura de APIs
 - 💬 Me pergunte sobre: **Python, Java**
 - ⚡ Curiosidade: **Uma vez focado, não distraio fácil de um projeto!**
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,python,java" />
+<img src="https://skillicons.dev/icons?i=vscode,python,java,rust,mysql,flask,githubactions" />
 
 </div>
 
