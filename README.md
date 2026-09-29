@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,python,java,rust,mysql,flask,githubactions" />
+<img src="https://skillicons.dev/icons?i=vscode,python,java,rust,mysql,githubactions" />
 
 </div>
 
